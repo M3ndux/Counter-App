@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import Counter from "./counter";
 
-class Counters extends React.Component {
+class Counters extends Component {
   render() {
     const { onDelete, onDecrement, onIncrement, onReset, counters } =
       this.props;

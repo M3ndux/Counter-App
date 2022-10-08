@@ -1,6 +1,6 @@
-import React, { Component } from "react";
+import { Component } from "react";
 
-class Counter extends React.Component {
+class Counter extends Component {
   render() {
     return (
       <div className="row">
