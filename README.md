@@ -1,6 +1,7 @@
 # Counter App
 
 ![License: MIT](https://img.shields.io/badge/Language-Javascript-green.svg)
+![License: MIT](https://img.shields.io/badge/Tool-Docker-blue.svg)
 
 A simple react-app to simulate an order counter
 
